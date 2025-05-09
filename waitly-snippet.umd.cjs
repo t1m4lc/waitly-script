@@ -1,1 +1,1 @@
-(function(e){typeof define=="function"&&define.amd?define(e):e()})(function(){"use strict";function e(){const n=document.getElementById("waitly");n?n.textContent="Hello from snippet!":console.warn("Element with id 'waitly' not found.")}e()});
+(function(n){typeof define=="function"&&define.amd?define(n):n()})(function(){"use strict";(function(){function n(){const e=document.getElementById("waitly");e?e.textContent="Hello from snippet!":console.warn("Element with id 'waitly' not found.")}n()})()});
